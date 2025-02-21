@@ -11,7 +11,7 @@ function MainComponent() {
 
   const questions = [
     {
-      question: "Who has the right to free primary education?",
+      question: "Ali and Fatima are siblings. Their parents can afford to send only one of them to school. They ask a teacher for advice. Who has the right to free primary education?",
       options: ["Only boys", "Only girls", "All children", "Only rich families"],
       correctAnswer: 2,
     },
@@ -26,7 +26,7 @@ function MainComponent() {
       correctAnswer: 1,
     },
     {
-      question: "Amina’s parents say only boys should go to school, so she has to stay home. What would you say to her?",
+      question: "You meet a girl named prasidhee, who is the same age as you. She tells you that her parents say only boys should go to school, so she has to stay home. What would you say to her?",
       options: [
         "That’s the rule, nothing can be done.",
         "You should secretly go to school without telling anyone.",
